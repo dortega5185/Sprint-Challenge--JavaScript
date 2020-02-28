@@ -11,7 +11,7 @@
   Create a method using CuboidMaker's prototype that returns the volume of a given cuboid's length, width, and height
   
   Formula for cuboid volume: length * width * height
-*/
+*/ 
 
 
 /* == Step 3: Surface Area Method ==
